@@ -1,0 +1,1 @@
+Oracle XE usa o servico XEPDB1. O diretorio de inicializacao correto para esta imagem e /container-entrypoint-initdb.d. Verifique a versao e a inicializacao antes de criar esquemas; nao confunda ORACLE_DATABASE com um banco adicional.

@@ -1,0 +1,1 @@
+SQL Server nao executa automaticamente scripts nesta pasta. Execute os scripts manualmente via sqlcmd/SSMS/Azure Data Studio depois de iniciar o container. Use um banco de exercicios e usuario de leitura para MCP.
